@@ -1,0 +1,85 @@
+# Project exclude paths
+/.gradle/
+/Topics/Boolean and logical operations/Invitations and gifts/out/
+/Topics/Boolean and logical operations/Invitations and gifts/out/production/classes/
+/Topics/Boolean and logical operations/Program a Boolean function/out/
+/Topics/Boolean and logical operations/Program a Boolean function/out/production/classes/
+/Topics/Characters/A capital letter or a digit/out/
+/Topics/Characters/A capital letter or a digit/out/production/classes/
+/Topics/Characters/Compare Latin letters/out/
+/Topics/Characters/Compare Latin letters/out/production/classes/
+/Topics/Characters/Digits or not/out/
+/Topics/Characters/Digits or not/out/production/classes/
+/Topics/Data types/Fix the program/out/
+/Topics/Data types/Fix the program/out/production/classes/
+/Topics/If expression/Leap year/out/
+/Topics/If expression/Leap year/out/production/classes/
+/Topics/If expression/Odd or even/out/
+/Topics/If expression/Odd or even/out/production/classes/
+/Topics/If expression/Triangle/out/
+/Topics/If expression/Triangle/out/production/classes/
+/Topics/Integers in action/Reversing a number/out/
+/Topics/Integers in action/Reversing a number/out/production/classes/
+/Topics/Integers in action/Time format/out/
+/Topics/Integers in action/Time format/out/production/classes/
+/Topics/Introduction to Kotlin/Hello, Kotlin/out/
+/Topics/Introduction to Kotlin/Hello, Kotlin/out/production/classes/
+/Topics/Introduction to MutableList/Initializing a mutable list of characters/out/
+/Topics/Introduction to MutableList/Initializing a mutable list of characters/out/production/classes/
+/Topics/Invoking functions/Lembas/out/
+/Topics/Invoking functions/Lembas/out/production/classes/
+/Topics/Invoking functions/Square root/out/
+/Topics/Invoking functions/Square root/out/production/classes/
+/Topics/Overview of the basic program/Application/out/
+/Topics/Overview of the basic program/Application/out/production/classes/
+/Topics/Overview of the basic program/Multiple statements/out/
+/Topics/Overview of the basic program/Multiple statements/out/production/classes/
+/Topics/Overview of the basic program/The eternal truth/out/
+/Topics/Overview of the basic program/The eternal truth/out/production/classes/
+/Topics/Reading data with a readln/Read a Double/out/
+/Topics/Reading data with a readln/Read a Double/out/production/classes/
+/Topics/Relational operators/Are the numbers different/out/
+/Topics/Relational operators/Are the numbers different/out/production/classes/
+/Topics/Relational operators/Groundhogs at the party/out/
+/Topics/Relational operators/Groundhogs at the party/out/production/classes/
+/Topics/Relational operators/Who is less than 10/out/
+/Topics/Relational operators/Who is less than 10/out/production/classes/
+/Topics/Repeating blocks/Counting positive numbers/out/
+/Topics/Repeating blocks/Counting positive numbers/out/production/classes/
+/Topics/Repeating blocks/Maximum element divisible by 4/out/
+/Topics/Repeating blocks/Maximum element divisible by 4/out/production/classes/
+/Topics/Repeating blocks/Repeat by value/out/
+/Topics/Repeating blocks/Repeat by value/out/production/classes/
+/Topics/Repeating blocks/Size of parts/out/
+/Topics/Repeating blocks/Size of parts/out/production/classes/
+/Topics/Standard input with Java Scanner/Read and print/out/
+/Topics/Standard input with Java Scanner/Read and print/out/production/classes/
+/Topics/Standard output/Amount on the account/out/
+/Topics/Standard output/Amount on the account/out/production/classes/
+/Topics/Standard output/Correct the code/out/
+/Topics/Standard output/Correct the code/out/production/classes/
+/Topics/Standard output/Print a triangle/out/
+/Topics/Standard output/Print a triangle/out/production/classes/
+/Topics/String basics/JSON/out/
+/Topics/String basics/JSON/out/production/classes/
+/Topics/String templates/Date and time formatting/out/
+/Topics/String templates/Date and time formatting/out/production/classes/
+/Topics/Type conversion/Sum of Longs/out/
+/Topics/Type conversion/Sum of Longs/out/production/classes/
+/Topics/Values and variables/val or var/out/
+/Topics/Values and variables/val or var/out/production/classes/
+/Topics/Values and variables/Very Big Number/out/
+/Topics/Values and variables/Very Big Number/out/production/classes/
+/Topics/While loops/Balance checker/out/
+/Topics/While loops/Balance checker/out/production/classes/
+/Topics/While loops/Bank interest calculation/out/
+/Topics/While loops/Bank interest calculation/out/production/classes/
+/Topics/While loops/Squares of natural numbers/out/
+/Topics/While loops/Squares of natural numbers/out/production/classes/
+/Topics/While loops/The largest element/out/
+/Topics/While loops/The largest element/out/production/classes/
+/Topics/While loops/The sum of elements/out/
+/Topics/While loops/The sum of elements/out/production/classes/
+/Zookeeper (Kotlin)/task/build/
+/Zookeeper (Kotlin)/task/out/
+/Zookeeper (Kotlin)/task/out/production/classes/
